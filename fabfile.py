@@ -1,3 +1,5 @@
+# -*- coding: utf8 -*-
+
 from fabric.contrib.files import append, exists, sed, put
 from fabric.api import env, local, run, sudo
 import random
